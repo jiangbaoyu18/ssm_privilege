@@ -1,0 +1,8 @@
+com/jby/privilege/domain/Member.class
+com/jby/privilege/domain/Orders.class
+com/jby/privilege/domain/Product.class
+com/jby/privilege/domain/Role.class
+com/jby/privilege/domain/SysLog.class
+com/jby/privilege/domain/Permission.class
+com/jby/privilege/domain/Traveller.class
+com/jby/privilege/domain/UserInfo.class

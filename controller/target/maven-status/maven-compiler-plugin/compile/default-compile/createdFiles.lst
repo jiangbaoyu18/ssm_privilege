@@ -1,0 +1,7 @@
+com/jby/privilege/controller/SysLogController.class
+com/jby/privilege/controller/OrdersController.class
+com/jby/privilege/controller/RoleController.class
+com/jby/privilege/controller/UserController.class
+com/jby/privilege/controller/LogAop.class
+com/jby/privilege/controller/ProductController.class
+com/jby/privilege/controller/PermissionController.class

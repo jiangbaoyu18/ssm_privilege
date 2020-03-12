@@ -1,0 +1,12 @@
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/IOrdersService.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/OrdersServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/UserServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/ProductServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/SysLogServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/ISysLogService.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/PermissionServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/IPermissionService.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/IRoleService.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/IProductService.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/impl/RoleServiceImpl.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/service/src/main/java/com/jby/privilege/service/IUserService.java

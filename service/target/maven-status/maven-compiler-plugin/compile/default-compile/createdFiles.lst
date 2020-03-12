@@ -1,0 +1,12 @@
+com/jby/privilege/service/IRoleService.class
+com/jby/privilege/service/ISysLogService.class
+com/jby/privilege/service/impl/SysLogServiceImpl.class
+com/jby/privilege/service/impl/PermissionServiceImpl.class
+com/jby/privilege/service/IPermissionService.class
+com/jby/privilege/service/IUserService.class
+com/jby/privilege/service/impl/OrdersServiceImpl.class
+com/jby/privilege/service/IProductService.class
+com/jby/privilege/service/IOrdersService.class
+com/jby/privilege/service/impl/ProductServiceImpl.class
+com/jby/privilege/service/impl/RoleServiceImpl.class
+com/jby/privilege/service/impl/UserServiceImpl.class

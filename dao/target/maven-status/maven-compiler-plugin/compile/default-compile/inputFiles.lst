@@ -1,0 +1,8 @@
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IUserDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IProductDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IPermissionDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IRoleDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/ISysLogDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/ITravellerDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IMemberDao.java
+/Users/aaab/Documents/codes/java/javaweb/privilege_management_ssm/dao/src/main/java/com/jby/privilege/dao/IOrdersDao.java

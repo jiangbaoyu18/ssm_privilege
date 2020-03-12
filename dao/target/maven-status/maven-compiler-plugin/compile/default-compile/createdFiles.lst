@@ -1,0 +1,8 @@
+com/jby/privilege/dao/IOrdersDao.class
+com/jby/privilege/dao/IPermissionDao.class
+com/jby/privilege/dao/IRoleDao.class
+com/jby/privilege/dao/IUserDao.class
+com/jby/privilege/dao/ISysLogDao.class
+com/jby/privilege/dao/ITravellerDao.class
+com/jby/privilege/dao/IProductDao.class
+com/jby/privilege/dao/IMemberDao.class
